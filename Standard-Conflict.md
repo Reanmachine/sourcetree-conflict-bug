@@ -1,1 +1,1 @@
-This file will have a standard conflict.
+This file will have a standard conflict. - Changed OTHER
